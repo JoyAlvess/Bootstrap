@@ -1,2 +1,2 @@
 # Bootstrap
-Layout responsivo e simples com Boostrap
+Layout responsivo e simples com Bootstrap
